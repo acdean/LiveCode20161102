@@ -1,7 +1,7 @@
 // for lulu
 import com.jogamp.opengl.*;  // new jogl - 3.0b7
 
-boolean video = true;
+boolean video = false;
 
 Wave w0, w1, w2;
 
